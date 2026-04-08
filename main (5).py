@@ -1,0 +1,39 @@
+
+merk = "Toyota"
+tipe = "Avanza"
+tahun = 2022
+warna = "Hitam"
+harga = 250000000
+no_polisi = "B 1234 CD"
+bahan_bakar = "Bensin"
+kapasitas_mesin = "1500cc"
+jumlah_kursi = 7
+status = "Tersedia"
+
+
+print("=== DATA KENDARAAN ===")
+print(f"Merk            : {merk}")
+print(f"Tipe            : {tipe}")
+print(f"Tahun           : {tahun}")
+print(f"Warna           : {warna}")
+print(f"Harga           : {harga}")
+print(f"No Polisi       : {no_polisi}")
+print(f"Bahan Bakar     : {bahan_bakar}")
+print(f"Kapasitas Mesin : {kapasitas_mesin}")
+print(f"Jumlah Kursi    : {jumlah_kursi}")
+print(f"Status          : {status}")
+
+harga = 230000000
+status = "Terjual"
+
+print("\n=== DATA KENDARAAN (SETELAH UPDATE) ===")
+print(f"Merk            : {merk}")
+print(f"Tipe            : {tipe}")
+print(f"Tahun           : {tahun}")
+print(f"Warna           : {warna}")
+print(f"Harga           : {harga}")
+print(f"No Polisi       : {no_polisi}")
+print(f"Bahan Bakar     : {bahan_bakar}")
+print(f"Kapasitas Mesin : {kapasitas_mesin}")
+print(f"Jumlah Kursi    : {jumlah_kursi}")
+print(f"Status          : {status}")
