@@ -1,0 +1,8 @@
+a=6
+b=14
+c= a and b
+
+print()
+print(a or b)
+print(a | b)
+print(a ^ b)
