@@ -1,0 +1,2 @@
+for i in range(5, 0, -1):                # Mulai dari 5, berhenti sebelum 0, melangkah -1
+  print ('*'*i)
